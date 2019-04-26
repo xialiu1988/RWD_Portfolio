@@ -1,0 +1,24 @@
+{
+  "name": "rwd_portfolio",
+  "version": "1.0.0",
+  "description": "# Overview: A personal website with my background and social media link provided on the site and also has some projects demo lists on the site for users to view.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xialiu1988/RWD_Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xialiu1988/RWD_Portfolio/issues"
+  },
+  "homepage": "https://github.com/xialiu1988/RWD_Portfolio#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "dotnet": "^1.1.4",
+    "express": "^4.16.4"
+  }
+}
