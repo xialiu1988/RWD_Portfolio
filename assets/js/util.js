@@ -34,6 +34,26 @@
 
 	};
 
+
+
+
+	window.onload=function(){
+		var imgs =['/images/timg.gif','/images/roll.jpeg','/images/star.gif']; 
+		var i = 0;
+		var head=document.getElementById('top');
+		head.style.background='/images/star.gif'; 
+		function time(){
+				 i++;
+				 i=i%3; 
+				 head.style.background='url('+imgs[i]+')';
+	
+		}
+		setInterval(time,2000);
+	  };
+
+
+
+
 	/**
 	 * Panel-ify an element.
 	 * @param {object} userConfig User config.
