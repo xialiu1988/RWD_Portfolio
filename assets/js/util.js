@@ -38,7 +38,7 @@
 
 
 	window.onload=function(){
-		var imgs =['../images/timg.gif','images/roll.jpeg','images/star.gif']; 
+		var imgs =['images/timg.gif','images/roll.jpeg','images/star.gif']; 
 		var i = 0;
 		var head=document.getElementById('top');
 		head.style.background='images/star.gif'; 
