@@ -39,6 +39,6 @@ Estimate of time needed to complete: __2hrs___
 
 Start time: __9:10am___
 
-Finish time: _10:00am____
+Finish time: _11:00am____
 
-Actual time needed to complete: __less than 1 hr___
+Actual time needed to complete: __less than 2 hr___
